@@ -9,5 +9,7 @@ My first GitHub project
 ## What I Want to Build
 [a app ]
 ## Collaborator:
-Tawsif Razzak, What is one rule or constraint you think is
+Tawsif Razzaki, What is one rule or constraint you think is
 most important when using AI tools for coding?
+Add collaborator entry
+for Tawsif Razzaki
